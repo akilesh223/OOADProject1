@@ -1,5 +1,6 @@
 package ucboulder.ooad.project1.entities;
 
+//ignore
 public class Zookeeper {
 
 	// zookeeper wakes animal that is instructed to him by zoo

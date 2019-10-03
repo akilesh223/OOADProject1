@@ -14,6 +14,7 @@ import ucboulder.ooad.project1.entities.Tiger;
 import ucboulder.ooad.project1.entities.Wolf;
 import ucboulder.ooad.project1.entities.Zookeeper;
 
+//ignore
 public class Zoo {
 
 	public static void main(String[] args) {
